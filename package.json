@@ -1,0 +1,14 @@
+{
+  "name": "rrcars-hojalateria",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PWA local de gestión para el taller de hojalatería y pintura RR CARS",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs --open",
+    "serve": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
